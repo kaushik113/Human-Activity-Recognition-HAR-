@@ -1,4 +1,6 @@
+
 # Human Activity Recognition (HAR) Assignment
+# NLP Project : https://github.com/kaushik113/NLP-project
 
 ## Dataset
 
